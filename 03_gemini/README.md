@@ -5,6 +5,11 @@
 </a>
 
 
+- short prompt engineering tricks
+- deep research 
+- guided learning (study mode)
+- nano banana
+
 
 ## Other videos 📹
 
