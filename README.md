@@ -1,4 +1,4 @@
-# Introduction to AI for account managers
+# Introduction to AI a short course for professionals
 
 In this course, you'll learn introduction to AI with some theory combined with hands on exercises and lab.
 
