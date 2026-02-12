@@ -1,7 +1,7 @@
 # Using AI for data analysis to understand data and extract insights
 
 <a href="https://youtu.be/mEOE271p-6o" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/ai_intro/.png?raw=true" alt="using AI for data analysis" width="600">
+  <img src="https://github.com/kokchun/assets/blob/main/ai_intro/data_analysis.png?raw=true" alt="using AI for data analysis" width="600">
 </a>
 
 
