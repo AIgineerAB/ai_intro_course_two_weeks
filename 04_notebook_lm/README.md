@@ -1,5 +1,7 @@
 # NotebookLM to learn from different sources
 
+## NOT FINISHED YET
+
 - create podcast
 - mindmaps
 - ask and chat with sources

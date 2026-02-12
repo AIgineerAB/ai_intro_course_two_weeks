@@ -1,5 +1,6 @@
 # Using AI for generating slides
 
+## NOT FINISHED YET
 
 In this video, I will show slidesgo, but there are many alternatives in the market to choose from.
 
