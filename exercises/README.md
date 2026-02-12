@@ -1,6 +1,6 @@
 # Exercises 
 
-Exercises are not compulsory but very much essential to be able to understand how to implement the different concepts yourself. If you master the exercises, exam/labs/projects will be much easier to handle and in the longer perspective also your job as a data engineer.
+Exercises are not compulsory but very much essential to be able to understand how to implement the different concepts yourself. If you master the exercises, exam/labs/projects will be much easier to handle and in the longer perspective also your job where you'll need to apply these knowledge that you learn here.
 
 > Use whatever tool available to solve the exercises, for example an LLM, but remember to learn the concepts and not just copy and paste code as this will slow down your learning. Also it is good to discuss with friends on how to solve the exercises. 
 
