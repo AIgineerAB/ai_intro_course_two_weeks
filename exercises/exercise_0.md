@@ -2,8 +2,6 @@
 
 In this exercise, you get to familiarize yourself with several AI tools within generative AI.
 
-## TODO exercises
-
 ## 0. Prompt engineering
 
 In prompt engineering, we want to guide LLMs towards accurate, relevant and high quality AI-generated outputs. With high quality means answer that matches what is expected from you. Throughout this exercise you will start with a vague prompt and go towards more specific to try to tune the answer towards higher quality and more precise answer. 
@@ -51,21 +49,73 @@ f) Now try to make the LLM guide you towards a better prompt by asking you quest
 
 
 
-## 0. Simulate fake data
+## 1. Use guided learning to learn about AI ethics
 
-DESCRIPTION
+Use guided learning or study mode to learn about AI ethics. Put in the following prompt into guided learning or study mode
 
-&nbsp; a)
+```md
+You are my AI learning mentor.
 
-&nbsp; b)
 
-&nbsp; c)
 
-&nbsp; d)
+I am a beginner who wants to understand AI ethics and AI security from scratch.
 
-&nbsp; e)
 
-## 
+
+Your job is to guide me step-by-step like a structured mini-course.
+
+
+
+Rules:
+
+- Assume I have no technical background.
+
+- Use simple language.
+
+- Give real-world examples.
+
+- After each section, ask me 2–3 reflection questions.
+
+- Include small practical exercises.
+
+- Build gradually from basic concepts to slightly more advanced topics.
+
+- Keep each lesson concise but clear.
+
+- If I say “go deeper,” expand the topic technically.
+
+
+
+Structure the learning into modules:
+
+
+
+Module 1: What is AI ethics?
+
+- Define AI ethics
+
+- Why it matters
+
+- Real-world examples (bias, misinformation, privacy)
+
+
+
+Module 2: Core ethical principles
+
+- Fairness
+
+- Transparency
+
+- Accountability
+
+- Privacy
+
+- Safety
+
+```
+
+
+
 
 ## 1. practical exercise
 
