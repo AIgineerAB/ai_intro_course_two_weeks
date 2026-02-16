@@ -48,8 +48,11 @@ Constraints:
 f) Now try to make the LLM guide you towards a better prompt by asking you questions. 
 
 
+## 1. Deep research about AI and its impact on jobs
 
-## 1. Use guided learning to learn about AI ethics
+Perform deep research about how AI impacts jobs in a particular geographical area of you choice (e.g. Sweden). Before you do the deep research, prompt an LLM to write a suitable prompt for the research for you. Then modify the prompt to suit your needs, then input it into a deep research. 
+
+## 2. Use guided learning to learn about AI ethics
 
 Use guided learning or study mode to learn about AI ethics. Put in the following prompt into guided learning or study mode
 
@@ -117,29 +120,20 @@ Module 2: Core ethical principles
 
 
 
-## 1. practical exercise
-
-DESCRIPTION
-
-&nbsp; a)
-
-&nbsp; b)
-
-&nbsp; c)
-
-&nbsp; d)
-
-&nbsp; e)
-
 ## 2. Theory questions
 
-DESCRIPTION
+You can use LLM to find answer on these questions, but you should definitiely summarize the answers in your own wordings to learn as much as possible.
 
-&nbsp; a)
+&nbsp; a) What is generative AI?
 
-&nbsp; b)
+&nbsp; b) What is the purpose of prompt engineering?
 
-&nbsp; c)
+&nbsp; c) What is an "AI hallucination," and why do Large Language Models (LLMs) produce them despite being trained on massive datasets?
+
+&nbsp; d) Why use lerning mode, when you can just prompt an LLM normally?
+
+&nbsp; e) What are the differences between zero-shot, one-shot and few-shot learning? 
+
 
 ## Glossary
 
