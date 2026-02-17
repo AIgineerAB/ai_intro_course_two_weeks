@@ -1,11 +1,14 @@
 # Using AI for generating slides
 
-## NOT FINISHED YET
+In this video, I will show the following tools for creating presentations
+- power point
+- chatgpt
+- gemini canvas
+- slidesgo
+- prezi
 
-In this video, I will show slidesgo, but there are many alternatives in the market to choose from.
-
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/FOLDER_NAME/.png?raw=true" alt="DESCRIPTION" width="600">
+<a href="https://youtu.be/KVQNw1TO7nw" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/ai_intro/presentations.png?raw=true" alt="AI tools for presentations" width="600">
 </a>
 
 
