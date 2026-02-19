@@ -1,9 +1,7 @@
-# TITLE
+# AI ethics
 
-## NOT FINISHED YET
-
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/FOLDER_NAME/.png?raw=true" alt="DESCRIPTION" width="600">
+<a href="https://youtu.be/kWa4XuQRIHU" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/ai_intro/ai_ethics.png?raw=true" alt="ai ethics" width="600">
 </a>
 
 
