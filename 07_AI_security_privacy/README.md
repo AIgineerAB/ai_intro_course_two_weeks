@@ -31,3 +31,8 @@
 - [Meta to stop its AI chatbots from talking to teens about suicide - L. McMahon (2025) BBC](https://www.bbc.com/news/articles/c2kzl79jv15o)
 
 - [Elon Musk’s xAI under fire for failing to rein in ‘digital undressing’ - H. Gold (2026) CNN Business](https://edition.cnn.com/2026/01/08/tech/elon-musk-xai-digital-undressing)
+
+**Regulations**
+- [EU AI Act - wikipedia](https://en.wikipedia.org/wiki/Artificial_Intelligence_Act)
+
+- [AI safety institute](https://en.wikipedia.org/wiki/AI_Safety_Institute)
